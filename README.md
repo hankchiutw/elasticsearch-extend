@@ -40,7 +40,7 @@ const UserModel = es.model('user');
 > Connect to an elasticsearch server
 
 ##### es.isConnected
-> Indicate wheather elasticsearch connected or not
+> Indicate whether elasticsearch connected or not
 
 ##### es.model(modelName, mapping)
 > Register a model
